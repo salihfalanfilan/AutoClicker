@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Otomatik Tıklayıcı</string>
+    <string name="accessibility_service_label">Kinetic Otomasyon Tıklama Motoru</string>
+    <string name="accessibility_service_description">Belirlediğiniz hedef aralıklarına ve makro senaryolarına göre root gerektirmeden ekranda otomatik tıklama ve kaydırma hareketlerini simüle eder.</string>
+    <string name="hud_notification_channel_name">Yüzen HUD Kontrolcüsü</string>
+    <string name="hud_notification_title">Kinetic Otomatik Tıklayıcı Aktif</string>
+    <string name="hud_notification_text">Yüzen kontrol paneli ekranda hazır.</string>
+</resources>

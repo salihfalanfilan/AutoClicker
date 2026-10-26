@@ -1,0 +1,35 @@
+# Built application files & binaries
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+*.hprof
+
+# Gradle & Build directories
+.gradle/
+build/
+*/build/
+app/build/
+app/release/
+
+# Local configuration & secrets
+local.properties
+keystore.properties
+*.jks
+*.keystore
+*.p12
+*.key
+google-services.json
+
+# IDE & Editor files
+.idea/
+*.iml
+.kotlin/
+.externalNativeBuild
+.cxx
+/captures
+
+# OS files
+.DS_Store
+Thumbs.db

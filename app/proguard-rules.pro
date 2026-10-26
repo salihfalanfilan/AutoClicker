@@ -1,0 +1,2 @@
+-keepattributes *Annotation*,InnerClasses,EnclosingMethod,Signature
+-keep class com.kinetic.autoclicker.** { *; }

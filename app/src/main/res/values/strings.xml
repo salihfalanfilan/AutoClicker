@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Auto Clicker</string>
+    <string name="accessibility_service_label">Kinetic Automation Click Engine</string>
+    <string name="accessibility_service_description">Simulates automated taps and swipe gestures on screen without root access according to your configured target intervals and macro sequences.</string>
+    <string name="hud_notification_channel_name">Floating HUD Controller</string>
+    <string name="hud_notification_title">Kinetic Auto-Clicker Active</string>
+    <string name="hud_notification_text">Floating controller overlay is ready on screen.</string>
+</resources>
